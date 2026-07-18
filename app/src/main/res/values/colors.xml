@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="oceanDark">#0D47A1</color>
+    <color name="oceanBlue">#1976D2</color>
+    <color name="oceanLight">#64B5F6</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#222222</color>
+
+    <color name="green">#2E7D32</color>
+    <color name="yellow">#F9A825</color>
+    <color name="red">#C62828</color>
+
+</resources>
